@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ephemeral-work-and-learn",
+  "version": "0.1.0",
+  "description": "Do repository work in disposable containers with human-operated authentication, then distill verified know-how into a separate, host-local, single-skill plugin."
+}
